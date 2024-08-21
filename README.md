@@ -1,2 +1,2 @@
-# Colic-u-i-localitatea-mea
+# Colicauti-localitatea-mea
 Site realizat pentru Tekwill în Fiecare Școală
